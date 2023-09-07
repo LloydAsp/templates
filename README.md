@@ -1,2 +1,2 @@
 # templates
-一些lxc系统模板
+一些lxc和kvm系统模板
